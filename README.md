@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-roman-de-ma-vie/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Le Roman De Ma Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-roman-de-ma-vie/) |
+| **Get License** | [Commercial Licensing for Le Roman De Ma Vie](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-roman-de-ma-vie/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, viens avec moi
+> Ton parfum chic me laisse presque sans voix
+> Dans la nuit noire, I'm addicted to you
+> Le roman de ma vie s'écrit rien que pour nous
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
